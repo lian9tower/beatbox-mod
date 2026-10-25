@@ -1,0 +1,10 @@
+{
+  "record.demo_beat": {
+    "sounds": [
+      {
+        "name": "beatbox:records/demo_beat",
+        "stream": true
+      }
+    ]
+  }
+}

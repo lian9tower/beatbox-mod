@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "beatbox",
+  "version": "${version}",
+  "name": "Beatbox",
+  "description": "Eigene Musik-Discs aus eigenen OGG-Dateien - mit Partikel-Lichtshow im Takt.",
+  "authors": [
+    "Beatbox"
+  ],
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.beatbox.BeatBoxMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
